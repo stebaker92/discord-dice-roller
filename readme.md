@@ -1,10 +1,14 @@
 # Discord Dice Roller bot
 
-A discord bot that allows you to roll a dice via chat commands
+A discord bot that allows you to roll a dice via chat commands. Built as an exercise to learn Python and how discord bots work
 
 
-## Installing locally with venv (recommended)
-- pip3 install -r requirements.txt 
+## Configuring a Discord bot
+- todo: notes on how to create a bot via Discord developer portal
+
+## Setup locally with venv (recommended)
+`- pip3 install -r requirements.txt `
+- rename `.env.example` to `.env` and insert your Discord token
 
 ## Running locally
 `python3 bot.py`
